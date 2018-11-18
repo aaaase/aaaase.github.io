@@ -4,6 +4,8 @@
   height: 100vh;
   display: flex;
   align-items: left;
+  margin:0;
+  padding:0;
 }
 
 
