@@ -4,7 +4,6 @@
   height: 100vh;
   display: flex;
   align-items: left;
-  //	justify-content: center;
 }
 
 
@@ -17,10 +16,7 @@
   position:absolute;
   left:15%;
   top: 43%;
-  // text-align:left;
   max-width: 50%;
-  //background-color: lightgreen
-
 }
 
 #text-content { 
@@ -31,9 +27,7 @@
   position:absolute;
   left:15%;
   top: 53%;
-  // text-align:left;
   max-width: 44%;
-  //background-color: lightblue;
 }
 
 #menu { 
@@ -45,9 +39,7 @@
   left:80%;
   top: 43%;
   line-height: 2em;
-  // text-align:left;
   max-width: 20%;
-  //background-color: red;
 }
 
 
@@ -55,8 +47,6 @@
   width: 100%;
   height: 10%;
   text-align: center;
- // background-color: pink;
- // position:absolute;
   padding-top:10%;
 }
 
@@ -65,8 +55,6 @@
   height: 10%;
   text-align: center;
   background-color: #212121;
-  //position:absolute;
- // position:fixed;
   padding-top:0%;
   bottom:0%;
 }
