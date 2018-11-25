@@ -35,19 +35,19 @@ body{
 }
 
 #menu { 
-  color:  black;
-  font-family: Gotham rounded;
-  font-weight: 500;
-  font-size: 14pt;
   position:absolute;
   left:80%;
   top: 43%;
-  line-height: 2em;
   max-width: 20%;
 }
 
 a {
   text-decoration: none;
+  color:  black;
+  font-family: Gotham rounded;
+  font-weight: 500;
+  font-size: 14pt;
+  line-height: 2em;
 }
 
 
