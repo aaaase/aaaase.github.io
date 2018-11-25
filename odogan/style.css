@@ -46,6 +46,10 @@ body{
   max-width: 20%;
 }
 
+a {
+  text-decoration: none;
+}
+
 
 #logo {
   width: 100%;
