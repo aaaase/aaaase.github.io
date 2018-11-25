@@ -66,3 +66,12 @@ body{
 .active {
   color: #616161;  
 }
+
+#canvas { 
+
+  position:absolute;
+  left:15%;
+  top: 53%;
+  max-width: 44%;
+
+}
