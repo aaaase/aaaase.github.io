@@ -94,3 +94,7 @@ function keyPressed() {
   console.log('sybm '+curSymbInd+', reading '+curTextInd);
   return false;   
 }
+
+function touchStarted(){
+  return keyPressed();  
+}
